@@ -6,7 +6,9 @@ This paper was published in Computational Economics Journal on August 28, 2025. 
 
 DOI: https://doi.org/10.1007/s10614-025-11074-0
 Shareable Link: https://rdcu.be/ffp3s
+
 If you would like to cite this paper in your research, please use the following BibTeX format:
+
 @article{khalil2025enhancing,
   title={Enhancing Insurance Fraud Detection Accuracy with Integrated Machine Learning and Statistical Methods},
   author={Khalil, Ahmed Abdelreheem},
