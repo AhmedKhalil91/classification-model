@@ -12,9 +12,9 @@ If you would like to cite this paper in your research, please use the following 
 Khalil, A. A. (2025). Enhancing Insurance Fraud Detection Accuracy with Integrated Machine Learning and Statistical Methods. Computational Economics, 1-32.
 
 
-## Dataset used in our paper
+# Dataset used in our paper
 
-# Data Source
+## Data Source
 The datasets for this study were obtained from Kaggle.com.
 
 First dataset:   https://www.kaggle.com/code/jwilda3/classifying-fraud-by-decision-trees
